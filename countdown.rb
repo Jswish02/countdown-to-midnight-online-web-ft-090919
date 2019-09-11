@@ -6,5 +6,6 @@ while seconds_to_midnight > 0
 end
 "HAPPY NEW YEAR!"
 end
-def countdown_with_sleep(countdown_to_midnight)
-  while seconds_to_midnight > log10puts "{seconds"
+def countdown_with_sleep(seconds_to_midnight)
+  while seconds_to_midnight > 0 
+  puts "{seconds_to_midnight}"
